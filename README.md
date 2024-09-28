@@ -11,10 +11,7 @@ This is a content-based movie recommendation system built using machine learning
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Dataset](#dataset)
-4. [Technologies Used](#technologies-used)
-5. [Future Improvements](#future-improvements)
-6. [Contributing](#contributing)
-7. [License](#license)
+4. [Future Improvements](#future-improvements)
 
 ## Installation
 
